@@ -1,9 +1,6 @@
 ---
 title: home
 ---
-![Project Coorg]({{site.baseurl}}/img001.jpg)
-
-
 
 ## Welcome to Project Coorg!
 
