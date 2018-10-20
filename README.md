@@ -1,3 +1,7 @@
+---
+title: home
+---
+
 ## Welcome to Project Coorg 
 
 ### About Us
